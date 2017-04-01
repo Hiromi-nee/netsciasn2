@@ -1,7 +1,7 @@
 project(GraphLab)
 
 
-add_graphlab_executable(simple_pagerank simple_pagerank.cpp)
+add_graphlab_executable(s_pagerank s_pagerank.cpp)
 
 add_graphlab_executable(warp_parfor_pagerank warp_parfor_pagerank.cpp)
 
